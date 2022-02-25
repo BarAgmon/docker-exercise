@@ -1,6 +1,6 @@
-FROM python
-WORKDIR /app
-COPY . /app
-RUN pip install -r requirements.txt
+FROM 
+WORKDIR 
+COPY 
+RUN 
 ENV PYTHONUNBUFFERED=1
-CMD python app.py
+CMD 
